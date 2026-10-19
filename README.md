@@ -4,17 +4,17 @@ A clean, modern personal finance app for Android, built with Java, XML and SQLit
 
 Track your income and expenses, organize spending by category, set budgets and see where your money goes. All data is stored locally on your device.
 
-![Expense Tracker Overview](screenshots/poster.png)
+![Expense Tracker Overview](screenshots/poster.png.png)
 
 ## Screenshots
 
 | Home | Add Expense | Transactions |
 |------|-------------|--------------|
-| <img src="screenshots/home.png" width="250"> | <img src="screenshots/add_expense.png" width="250"> | <img src="screenshots/transactions.png" width="250"> |
+| <img src="screenshots/home.png.jpeg" width="250"> | <img src="screenshots/add_expense.png.jpeg" width="250"> | <img src="screenshots/transactions.png.jpeg" width="250"> |
 
 | Reports | Budget | Profile |
 |---------|--------|---------|
-| <img src="screenshots/reports.png" width="250"> | <img src="screenshots/budget.png" width="250"> | <img src="screenshots/profile.png" width="250"> |
+| <img src="screenshots/reports.png.jpeg" width="250"> | <img src="screenshots/budget.png.jpeg" width="250"> | <img src="screenshots/profile.png.jpeg" width="250"> |
 
 ## Features
 
