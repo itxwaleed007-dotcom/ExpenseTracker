@@ -47,3 +47,4 @@ Track your income and expenses, organize spending by category, set budgets and s
 
 Waleed Arshad, Android developer
 GitHub: [itxwaleed007-dotcom](https://github.com/itxwaleed007-dotcom)
+LinkedIn: [Waleed Arshad](https://www.linkedin.com/in/waleed-arshad-1b0882288/)
