@@ -14,7 +14,7 @@ Track your income and expenses, organize spending by category, set budgets and s
 
 | Reports | Budget | Profile |
 |---------|--------|---------|
-| <img src="reports.png.jpeg" width="250"> | <img src="budget.png.jpeg" width="250"> | <img src="profile.png.jpeg" width="250"> |
+| <img src="reports.png.jpeg" width="250"> | <img src="budget.png.jpeg" width="250">
 
 ## Features
 
